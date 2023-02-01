@@ -1,0 +1,3 @@
+[submodule "kernel_list"]
+	path = kernel_list
+	url = git@github.com:hu-submodule-1/kernel_list.git
